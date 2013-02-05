@@ -5,8 +5,7 @@
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <h1>Examples</h1>
+        <a href="examples/dsp/index.php">DSP</a>
     </body>
 </html>

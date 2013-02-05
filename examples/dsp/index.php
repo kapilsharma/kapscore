@@ -31,4 +31,3 @@ $metaDescription = "Test: Meta desc";
 $addJS  =  array("lib/jquery-1.7.2.min","index-search");
 $addCSS =  array("style");
 
-$addClass = 
