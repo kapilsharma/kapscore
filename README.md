@@ -5,7 +5,7 @@ KAPsCore
 Let me first make it very clear that I do support frameworks. Frameworks make task much easier for a professional developer. I too am a professional developer and working in a software firm to arrange bread and butter for my family. As professional, I frequently use different frameworks based on the requirements.
 
 ## Why Noframework ##
-Well there is no doubt framework are extremely useful as they allow developers to work on the requirements of their project and do all dirty work (frequent work that we have to do in nearly all the projects.
+Well there is no doubt framework are extremely useful as they allow developers to work on the requirements of their project and let framework do all dirty work (frequent work that we have to do in nearly all the projects).
 
 Still, there are times when we decide to develop some project in core PHP that is without using any framework. One of the most important reason is, framework features comes at some cost. Frameworks do nearly every basic operation and on projects we generally do not need all of those operations. Again framework enforce one way or other way of programming that might not fit for our project.
 
@@ -19,9 +19,9 @@ One of the basic purpose of KAPsCore is to provide a basic platform for core PHP
 
 ## KAPsCore Naming ##
 
-KAPsCore will be available in many formats, that will be differentiated but 3 Alphabets like KAPsCore XYZ.
+KAPsCore will be available in many formats, that will be differentiated by 3 Alphabets like KAPsCore XYZ.
 
-Here X define how we implementing controller. We can have distributed (multiple) controllers or Central controller, as many framework prefer. So X can be (D)istributed or (C)entral.
+Here X define how we implement controller. We can have distributed (multiple) controllers or Central controller, as many framework prefer. So X can be (D)istributed or (C)entral.
 
 Y defines Model. We can have plain (S)QL or (A)ctive records or (Propel) or (D)octrine.
 
