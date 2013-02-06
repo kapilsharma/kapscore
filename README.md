@@ -19,7 +19,9 @@ One of the basic purpose of KAPsCore is to provide a basic platform for core PHP
 
 ## KAPsCore Naming ##
 
-KAPsCore will be available in many formats, that will be differentiated by 3 Alphabets like KAPsCore XYZ.
+MVC architecture is now de facto for software engineering, already proven its importance in lot of projects. KAPsCore is also going to use MVC architecture.
+
+KAPsCore will be available in many formats, which are doing different things differently. However three important parts of MVC (Model, View and Controller) will be included in name as 3 Alphabets like KAPsCore XYZ.
 
 Here X define how we implement controller. We can have distributed (multiple) controllers or Central controller, as many framework prefer. So X can be (D)istributed or (C)entral.
 
