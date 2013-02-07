@@ -39,3 +39,14 @@ Other package on my priority list are:
 >5. CDS
 
 Docs folder in the root have further documentation forseparate packages. For now, I'm uploading Word Docs and PDF for documents and will convert them to Markdown in some other free time.
+
+## Where to start ##
+
+### New to PHP ###
+If you are new to PHP, you must start with KAPsCore DSP. Pickup the document 'KAPsCore DSP' from documents folder. It will explain everything you need to know.
+
+### Experienced with PHP ###
+You can skip the document and jump directly to the code as code too is well commented. Pick up KAPsCore form the examples folder. If you still stuck somewhere, feel free to go through documents.
+
+### PHP Masters ###
+Do you have little time to help? Pick up any code and tell how can we make it better.
