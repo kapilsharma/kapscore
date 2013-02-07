@@ -38,7 +38,7 @@ Other package on my priority list are:
 >4. CDP
 >5. CDS
 
-Docs folder in the root have further documentation forseparate packages. For now, I'm uploading Word Docs and PDF for documents and will convert them to Markdown in some other free time.
+Docs folder in the root have further documentation for separate packages. For now, I'm uploading Word Docs and PDF for documents and will convert them to Markdown in some other free time.
 
 ## Where to start ##
 
